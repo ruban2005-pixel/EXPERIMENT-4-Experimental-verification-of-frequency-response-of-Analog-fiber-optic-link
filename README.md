@@ -40,35 +40,17 @@ Fiber optic links can be used for transmission of digital as well as analog sign
 8. Calculate the bandwidth by determining the gain in decibels (dB).  
 
 ---
-
 ## BLOCK DIAGRAM
-
-*(Insert block diagram here)*
-
----
-
-## CONNECTION DIAGRAM  
-**Setting up an Analog Link**
-
-*(Insert connection diagram here)*
-
----
+<img width="665" height="389" alt="image" src="https://github.com/user-attachments/assets/06278da9-a531-48d0-97eb-280081263fdd" />
 
 ## TABULATION  
-**Transmission through Analog Link**
-
-| Frequency (Hz) | Output Signal Amplitude (Vo) | Gain = Vo/Vi | Gain in dB |
-|----------------|------------------------------|--------------|------------|
-|                |                              |              |            |
-
----
+![WhatsApp Image 2025-11-18 at 21 55 28_7b60ee9f](https://github.com/user-attachments/assets/9677f735-1a87-400e-afa6-b62f45930ef6)
 
 ## MODEL GRAPH
+<img width="612" height="292" alt="image" src="https://github.com/user-attachments/assets/026afb9f-d48e-40fc-a158-5f5aef717553" />
 
-*(Insert model graph here)*
-
----
+## Graph
+![WhatsApp Image 2025-11-18 at 21 57 21_3f505e0f](https://github.com/user-attachments/assets/efcd0941-a4f8-4f18-8926-9262059aaa47)
 
 ## RESULT
-
-*(Summarize observations and conclusions here)*
+Thus the experimental verification of frequency response of an analog fiber optic link is studied and verified.
